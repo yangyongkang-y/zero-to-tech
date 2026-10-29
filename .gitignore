@@ -1,3 +1,4 @@
 .index.html.swp
 node_modules
 dist
+backend/.venv/
